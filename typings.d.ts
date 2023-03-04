@@ -1,5 +1,7 @@
+// import { ChatCompletionRequestMessage, ChatCompletionResponseMessage } from "openai";
+
 interface Message{
-    text:string;
+    text:string|ChatCompletionResponseMessage;
     createdAt:admin.firestore.Timestamp;
     user:{
         _id:string;
