@@ -12,7 +12,7 @@ const CharPage = ({params:{id}}:Props) => {
     <div className='flex flex-col h-screen overflow-hidden'>
 
       {/* chat window */}
-    <Chat chatId= {id}></Chat>
+      <Chat chatId= {id}></Chat>
       {/** chat input */}
       <ChatInput chatId = {id}></ChatInput>
     </div>
