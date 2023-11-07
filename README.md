@@ -1,3 +1,5 @@
+![image](https://github.com/SanchitSah12/ChatGptClone/assets/72809971/996ad325-3996-4568-8412-415107c7d331)
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
